@@ -51,7 +51,7 @@ A **real-time weather application** with API integration, dynamic icons, and an 
 ---
 
 ## 📬 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/sejal-kamboj-881551254) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/sejal-kamboj-12345s?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 - 📧 Email: sejalkamboj09@gmail.com
 - 🌐 [Portfolio](https://sejalkamboj.github.io/MyPortfolio/)
 
