@@ -53,6 +53,6 @@ A **real-time weather application** with API integration, dynamic icons, and an 
 ## 📬 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/sejal-kamboj-881551254) 
 - 📧 Email: sejalkamboj09@gmail.com
-- 🌐 [Portfolio](https://github.com/sejalkamboj/My-portfolio.git)
+- 🌐 [Portfolio](https://sejalkamboj.github.io/MyPortfolio/)
 
 Let's build something amazing together! 🚀
