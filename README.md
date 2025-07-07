@@ -7,7 +7,7 @@ I am a **pre-final year B.Tech student** specializing in **Computer Science and 
 ---
 
 ## 🌟 About Me
-- 🎓 **B.Tech in Computer Science (2022-2026)** | UPES, Dehradun | GPA: **7.9/10**
+- 🎓 **B.Tech in Computer Science (2022-2026)** | UPES, Dehradun | GPA: **8.0/10**
 - 🏆 **AWS Certified** | Cloud Computing & Security Certifications
 - 💻 **Tech Stack:** C, C++, Java, HTML, CSS, JavaScript, React.js, MySQL, MongoDB, AWS
 - 🌱 Currently learning Docker, Kubernetes.
