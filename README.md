@@ -2,7 +2,7 @@
 
 🚀 **Aspiring Software Engineer | Cloud & Web Development Enthusiast**
 
-I am a **pre-final year B.Tech student** specializing in **Computer Science and Engineering** at **UPES, Dehradun**. Passionate about **cloud computing, web development, and problem-solving**, I love building impactful projects and continuously improving my skills. As a **dedicated and proactive learner**, I enjoy collaborating on innovative solutions and exploring new technologies.
+I am a **final year B.Tech student** specializing in **Computer Science and Engineering** at **UPES, Dehradun**. Passionate about **cloud computing, web development, and problem-solving**, I love building impactful projects and continuously improving my skills. As a **dedicated and proactive learner**, I enjoy collaborating on innovative solutions and exploring new technologies.
 
 ---
 
